@@ -13,7 +13,7 @@ else:
 if not_null_variable is None:
     print('not_null_variable is None')
 else:
-    print('not_null_variable is not None'
+    print('not_null_variable is not None')
  
 # The == operator
 if null_variable == None:
